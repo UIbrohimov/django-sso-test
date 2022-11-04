@@ -1,6 +1,6 @@
 # django-sso-test build on django-simple-sso by @divio 
 
-## This project is for testing functionality of the django-simple-sso 
+## This project is for an overview of the functionality of the django-simple-sso 
 
 1. clone django-simple-sso -> https://github.com/divio/django-simple-sso
 2. create and activate env 
