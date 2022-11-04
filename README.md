@@ -1,4 +1,4 @@
-# django-sso-test
+# django-sso-test build on djnago-simple-sso by @divio 
 
 ## This project is for testing functionality of the django-simple-sso 
 
